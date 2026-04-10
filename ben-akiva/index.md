@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 5
+Total sessions: 6
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-04-10 | [Call with Gal Peled](2026-04-10_15-07_bn-ny-gl-pld/transcript.md) | V |
 | 2026-04-10 | [Call with Gal Peled](2026-04-10_14-57_bn-ny-gl-pld/transcript.md) | V |
 | 2026-03-31 | [WhatsApp Audio 2026-03-31 at 22.41.36](2026-03-31_23-35_bn-dn-tsvry-hyll/transcript.md) | V |
 | 2026-03-30 | [Call with Shalhevet Vardi 2](2026-03-30_18-55_bn-shlhbt/transcript.md) | V |
