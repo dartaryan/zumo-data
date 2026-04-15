@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 9
+Total sessions: 10
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-04-15 | [GMT20260414-134812_Recording](2026-04-15_09-41_bn-qyb-mvr-dhn/transcript.md) | V |
 | 2026-04-14 | [אילנית](2026-04-14_21-45_bn-qyb-ylnyt-gryn/transcript.md) | V |
 | 2026-04-14 | [voice](2026-04-14_21-07_voice/transcript.md) | V |
 | 2026-04-12 | [System Demo - V1](2026-04-12_16-20_system-demo-v1/transcript.md) | V |
