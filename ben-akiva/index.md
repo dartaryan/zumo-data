@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 10
+Total sessions: 11
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-04-24 | [Call with Meyush 2](2026-04-24_16-57_bn-qyb-ny-myy-m-yn-byysrvn/transcript.md) | V |
 | 2026-04-15 | [GMT20260414-134812_Recording](2026-04-15_09-41_bn-qyb-mvr-dhn/transcript.md) | V |
 | 2026-04-14 | [אילנית](2026-04-14_21-45_bn-qyb-ylnyt-gryn/transcript.md) | V |
 | 2026-04-14 | [voice](2026-04-14_21-07_voice/transcript.md) | V |
