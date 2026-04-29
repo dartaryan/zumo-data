@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 17
+Total sessions: 18
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-04-29 | [Ben - Mey - AI Session](2026-04-29_10-21_ben-mey-ai-session/transcript.md) | V |
 | 2026-04-29 | [Ben - Mey - AI Session](2026-04-29_05-54_ben-mey-ai-session/transcript.md) | V |
 | 2026-04-28 | [Ben - Mey - AI Session](2026-04-28_23-10_ben-mey-ai-session/transcript.md) | V |
 | 2026-04-28 | [Ben - Mey - AI Session](2026-04-28_22-33_ben-mey-ai-session/transcript.md) | V |
