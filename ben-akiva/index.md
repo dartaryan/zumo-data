@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 21
+Total sessions: 22
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-04-29 | [voice](2026-04-29_16-30_vry-smvl-dvbr-rshy-mspr-l-h-sq-bn-qyb-mzyn/transcript.md) | V |
 | 2026-04-29 | [Call with Maor Dahan](2026-04-29_14-22_bn-qyb-mptkh-tvknh-bvptypln-mvr-dhn-b-lym-dvbr-rsh/transcript.md) | V |
 | 2026-04-29 | [GMT20260428-181617_Recording](2026-04-29_12-48_myy-m-yn-byysrvn-mrtsh-m-byrh-t-htvkn-bn-qyb-mqshy/transcript.md) | V |
 | 2026-04-29 | [voice](2026-04-29_11-56_voice/transcript.md) | V |
