@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 24
+Total sessions: 25
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-06 | [audio1218863269](2026-05-06_10-11_bn-qyb-m-byr-t-hsdnh-dnh-khryt-mt-m-pyg-mh-l-hsdnh/transcript.md) | V |
 | 2026-05-01 | [GMT20260501-083043_Recording](2026-05-01_21-48_mvr-b-l-vptypln-bn-mptkh-bkhbrt-vptypln-dnyl-lqvkh/transcript.md) | V |
 | 2026-05-01 | [Call with Shalhevet Vardi 3](2026-05-01_18-09_bn-qyb-shlhbt-vrdy/transcript.md) | V |
 | 2026-04-29 | [voice](2026-04-29_16-30_vry-smvl-dvbr-rshy-mspr-l-h-sq-bn-qyb-mzyn/transcript.md) | V |
