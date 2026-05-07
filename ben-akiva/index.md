@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 26
+Total sessions: 27
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-07 | [GMT20260507-144938_Recording](2026-05-07_21-43_bn-qyb-mtknn-lh-byr-hkshrvt-vsdnvt-ai-lly-d-ly-d-m/transcript.md) | V |
 | 2026-05-07 | [Call with Nimrod Abarjel](2026-05-07_08-47_bn-b-ly-shl-tailorplayed-nmrvd-lqvkh/transcript.md) | V |
 | 2026-05-06 | [audio1218863269](2026-05-06_10-11_bn-qyb-m-byr-t-hsdnh-dnh-khryt-mt-m-pyg-mh-l-hsdnh/transcript.md) | V |
 | 2026-05-01 | [GMT20260501-083043_Recording](2026-05-01_21-48_mvr-b-l-vptypln-bn-mptkh-bkhbrt-vptypln-dnyl-lqvkh/transcript.md) | V |
