@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 28
+Total sessions: 29
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-10 | [Call with Dana Pajama](2026-05-10_09-22_bn-qyb-m-byr-hsdnh-dnh/transcript.md) | V |
 | 2026-05-08 | [Call with Elanit Green - ממשלה](2026-05-08_10-32_bn-qyb-mv-md-lai-champion-bthlyk-shynvy-bmmshlh-yl/transcript.md) | V |
 | 2026-05-07 | [GMT20260507-144938_Recording](2026-05-07_21-43_bn-qyb-mtknn-lh-byr-hkshrvt-vsdnvt-ai-lly-d-ly-d-m/transcript.md) | V |
 | 2026-05-07 | [Call with Nimrod Abarjel](2026-05-07_08-47_bn-b-ly-shl-tailorplayed-nmrvd-lqvkh/transcript.md) | V |
