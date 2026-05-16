@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 33
+Total sessions: 34
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-16 | [Call with Dad](2026-05-16_10-47_bn-qyb-bn-shl-ytsyq-vzr-lv-bbnyyt-svknym-l-sq-ytsy/transcript.md) | V |
 | 2026-05-14 | [GMT20260513-152828_Recording](2026-05-14_16-18_bn-qyb-rvyt-tlmydh/transcript.md) | V |
 | 2026-05-14 | [2026-05-14_15-14_bn-qyb-rvyt-tlmydh](2026-05-14_15-14_bn-qyb-rvyt-tlmydh/transcript.md) | — |
 | 2026-05-14 | [GMT20260513-171722_Recording](2026-05-14_12-47_bn-qyb-mtmn-rvn-nvryl-mmn-kvshr/transcript.md) | V |
