@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 36
+Total sessions: 37
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-21 | [שיחת היכרות דיגיטלית](2026-05-21_04-49_bn-qyb-hmtsyg-ylnyt-gryn-mqshrt-nvkkhh-bkhdr-tsyly/transcript.md) | V |
 | 2026-05-21 | [Call with יונתן גולן חוזק](2026-05-21_03-58_bn-qyb-m-byr-hkshrvt-ai-yvntn-gvln-vbd-blvy-shtrq/transcript.md) | V |
 | 2026-05-20 | [GMT20260520-083026_Recording_640x360_converted](2026-05-20_09-40_bn-qyb-hvlk-lhtryyn-ylnyt-gryn-bvkhnt-t-bn-v-vzrt/transcript.md) | V |
 | 2026-05-16 | [Call with Dad](2026-05-16_10-47_bn-qyb-bn-shl-ytsyq-vzr-lv-bbnyyt-svknym-l-sq-ytsy/transcript.md) | V |
