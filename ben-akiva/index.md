@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 39
+Total sessions: 40
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-05-25 | [Call with Elanit Green p1](2026-05-25_06-39_bn-qyb-ylnyt-gryn/transcript.md) | V |
 | 2026-05-22 | [Highway 2](2026-05-22_09-18_bn/transcript.md) | V |
 | 2026-05-22 | [Highway 2](2026-05-22_09-02_highway-2/transcript.md) | V |
 | 2026-05-21 | [שיחת היכרות דיגיטלית](2026-05-21_04-49_bn-qyb-hmtsyg-ylnyt-gryn-mqshrt-nvkkhh-bkhdr-tsyly/transcript.md) | V |
