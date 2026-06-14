@@ -1,9 +1,10 @@
 # Transcriptions — ben-akiva
 
-Total sessions: 42
+Total sessions: 43
 
 | Date | Title | Analysis |
 |------|-------|----------|
+| 2026-06-14 | [Dr Yosef Hazanovich Street 10](2026-06-14_10-36_bn-qyb-myt-zvmrprvynd-mvr-dhn/transcript.md) | V |
 | 2026-06-02 | [GMT20260528_092657_Clip_Ben_TailorPlayed's_Clip_05_28_2026_converted](2026-06-02_13-42_bn-qyb-mrtsh-vm-byr-shy-vr-prty-l-kly-ai-nv-h-tlmy/transcript.md) | V |
 | 2026-05-25 | [Call with Elanit Green p2](2026-05-25_07-24_bn-qyb-ylnyt-gryn/transcript.md) | V |
 | 2026-05-25 | [Call with Elanit Green p1](2026-05-25_06-39_bn-qyb-ylnyt-gryn/transcript.md) | V |
